@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-Vivanco702/Vivanco702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vivanco702/Vivanco702 is a ✨ special ✨ repository because its `README.md` (https://docs.google.com/document/d/1EpMGREe1WuBgSAVdXOYCW3tDab045OOKmfJkdDqCg00/edit?usp=drivesdk) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Clubshop.com
+Www.Clubshop.com
